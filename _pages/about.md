@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "YU Haoyang Academic Pages"
+title: "Yu Haoyang Academic Pages"
 author_profile: true
 redirect_from: 
   - /about/
