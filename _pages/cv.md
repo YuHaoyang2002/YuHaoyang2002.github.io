@@ -20,7 +20,7 @@ Work experience
   * Shanghai Hejin Technology Co., Ltd. (HeyWhale)
   * Responsibilities: Meteorological data processing, quality control, statistical analysis, and visualization
   * Tools: Python
-#  * Supervisor: [Supervisor's Name]
+  <!-- * Supervisor: [Supervisor's Name] -->
   
 Skills
 ======
