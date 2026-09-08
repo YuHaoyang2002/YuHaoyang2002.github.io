@@ -25,12 +25,13 @@ author:
   # Biographic information
   avatar           : "touxiang.jpg"
   name             : "Yu Haoyang|余昊阳"
-  pronouns         : # example: "she/her"  
+  pronouns         : "me."  
   bio              : "Ph.D. Student in IAP/CAS"
   location         : "Peking, China"
   employer         : #"Red Brick University"
   uri              : # URL
   email            : "yuhaoyang25@mails.ucas.ac.cn" 
+  
 
   # Academic websites
   academia         : # URL
