@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Haoyang YU"
+title                    : "Yu's cyberspace"
 title_separator          : "-"
 name                     : &name "余昊阳"
 description              : &description "Ph.D. Student"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -24,7 +24,7 @@ repository               : "YuHaoyang2002/YuHaoyang2002.github.io"
 author:
   # Biographic information
   avatar           : "touxiang.jpg"
-  name             : "Yu Haoyang|余昊阳"
+  name             : "Haoyang Yu|余昊阳"
   pronouns         : "me."  
   bio              : "Ph.D. Student in IAP/CAS"
   location         : "Peking, China"

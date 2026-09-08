@@ -11,26 +11,16 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Meteorology, Institute of Atmospheric Physics, Chinese Academy of Sciences,, 2030 (expected)
+* B.S. in Atmospheric Science, Nanjing university of information science and technology, 2025
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2024: Meteorological Data Analysis Intern
+  * Shanghai Hejin Technology Co., Ltd. (HeyWhale)
+  * Responsibilities: Meteorological data processing, quality control, statistical analysis, and visualization
+  * Tools: Python
+  #* Supervisor: [Supervisor's Name]
   
 Skills
 ======
